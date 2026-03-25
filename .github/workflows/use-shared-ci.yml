@@ -5,6 +5,6 @@ on:
 
 jobs:
   run-shared-ci:
-    uses: pritimane1809/Insternship_assignment/.github/workflows/shared-ci.yml@main
+    uses: pritimane1809/Insternship_assignments/.github/workflows/shared-ci.yml@main
     secrets: inherit
     
